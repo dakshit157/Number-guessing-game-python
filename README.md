@@ -11,10 +11,11 @@ This is a simple Python number guessing game.
 ## How to run
 1. Make sure Python is installed.
 2. Run the program using:
-   python guess_number.py
+   python Guess_Num.py
 
 ## Concepts Used
 - Random module
 - While loop
 - Conditional statements
 - User input
+
